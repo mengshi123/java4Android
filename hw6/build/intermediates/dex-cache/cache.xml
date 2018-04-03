@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_b0785c3254cfd2fa4c53967252b01e451865e2b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\shime\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections-3.2.2_a972717bee4ad8e187637071f27fbc53d1b2c407\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\shime\.gradle\caches\modules-2\files-2.1\com.github.davidmarquis\fluent-interface-proxy\1.3.0\519c459c771e2554437649a32b56e27a83ba66dc\fluent-interface-proxy-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="519c459c771e2554437649a32b56e27a83ba66dc">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\fluent-interface-proxy-1.3.0_9b84ec0b402e4a1c757eb9a2ef1e57563ce9d850\classes.dex" />
+    </item>
+    <item
+        jar="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_4104210ea7f59932789df400080d979dbf91607e\classes.dex" />
+    </item>
+    <item
+        jar="C:\STUDY\GRADUATE\Android\java for android\hw6\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_900d5ac37f9b74e87ad86fb11faa3103ab14958a\classes.dex" />
+    </item>
+    <item
+        jar="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_4d4a3e2b650819df418fa19ed10ce70adf73695d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\shime\.gradle\caches\modules-2\files-2.1\commons-beanutils\commons-beanutils\1.9.3\c845703de334ddc6b4b3cd26835458cb1cba1f3d\commons-beanutils-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c845703de334ddc6b4b3cd26835458cb1cba1f3d">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-beanutils-1.9.3_8bbf5741dc4deca0d1e0a65ecaaa252145e6d46f\classes.dex" />
+    </item>
+    <item
+        jar="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_435afaa3852dc511bcd98c07c36d525c0797e55f\classes.dex" />
+    </item>
+    <item
+        jar="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_868ec823b17d130d1d23c10efb52c17bf8108bcf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\shime\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_a02cba82523afca7ef91e2228a2e4735fde7010a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\shime\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_feff59448beac2cb2f51ed49fdbb94b1190267a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\STUDY\GRADUATE\Android\java for android\hw6\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_8cccce36557a4a7eb967d83d51798d9bca4b1d59\classes.dex" />
+    </item>
+
+</items>
